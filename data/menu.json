@@ -1,0 +1,479 @@
+{
+  "updated": "2026-09-19",
+  "categories": [
+    {
+      "slug": "cocktails",
+      "label": "Cocktails",
+      "icon": "cocktail",
+      "items": [
+        {
+          "name": "Aperol Spritz",
+          "price": 8.0
+        },
+        {
+          "name": "Cocktail du mois",
+          "price": 8.0
+        },
+        {
+          "name": "Gin Tonic",
+          "price": 8.0
+        },
+        {
+          "name": "Mojito",
+          "price": 8.0
+        },
+        {
+          "name": "Piña Colada",
+          "price": 8.0
+        }
+      ]
+    },
+    {
+      "slug": "bieres",
+      "label": "Bières",
+      "icon": "beer",
+      "items": [
+        {
+          "name": "Carslberg",
+          "price": 3.5
+        },
+        {
+          "name": "Chimay",
+          "price": 4.8
+        },
+        {
+          "name": "Chimay dorèe",
+          "price": 4.0
+        },
+        {
+          "name": "Corona",
+          "price": 4.0
+        },
+        {
+          "name": "Desperados",
+          "price": 4.0
+        },
+        {
+          "name": "Dominicaine",
+          "price": 4.0
+        },
+        {
+          "name": "Duvel",
+          "price": 4.5
+        },
+        {
+          "name": "Fram'Bush",
+          "price": 4.5
+        },
+        {
+          "name": "Hoegaarden",
+          "price": 3.5
+        },
+        {
+          "name": "Jonquille",
+          "price": 10.0
+        },
+        {
+          "name": "Juicy passion",
+          "price": 3.5
+        },
+        {
+          "name": "Kasteel",
+          "price": 4.5
+        },
+        {
+          "name": "Liefmans",
+          "price": 3.5
+        },
+        {
+          "name": "Lupulus",
+          "price": 4.0
+        },
+        {
+          "name": "Mel Bush",
+          "price": 4.5
+        },
+        {
+          "name": "Orval",
+          "price": 5.5
+        },
+        {
+          "name": "Paix Dieu 25 cl",
+          "price": 4.0
+        },
+        {
+          "name": "Paix Dieu 33 cl",
+          "price": 5.3
+        },
+        {
+          "name": "Paix Dieu 50 cl",
+          "price": 7.0
+        },
+        {
+          "name": "Queue de charrue",
+          "price": 3.8
+        },
+        {
+          "name": "Saison Dupont",
+          "price": 10.0
+        },
+        {
+          "name": "Somersby",
+          "price": 4.0
+        },
+        {
+          "name": "St-Feu Grand Cru",
+          "price": 10.0
+        },
+        {
+          "name": "Stella 25 cl",
+          "price": 2.5
+        },
+        {
+          "name": "Stella 33 cl",
+          "price": 3.0
+        },
+        {
+          "name": "Stella 50 cl",
+          "price": 4.5
+        },
+        {
+          "name": "Supplément sirop",
+          "price": 0.5
+        },
+        {
+          "name": "Tk",
+          "price": 4.5
+        },
+        {
+          "name": "Trolls",
+          "price": 4.0
+        },
+        {
+          "name": "Westmalle",
+          "price": 4.8
+        }
+      ]
+    },
+    {
+      "slug": "bieres-zero",
+      "label": "Bières 0%",
+      "icon": "beer0",
+      "items": [
+        {
+          "name": "Carlsberg",
+          "price": 3.0
+        },
+        {
+          "name": "Corona",
+          "price": 3.0
+        },
+        {
+          "name": "Somersby",
+          "price": 4.0
+        },
+        {
+          "name": "Stella",
+          "price": 3.0
+        }
+      ]
+    },
+    {
+      "slug": "vins",
+      "label": "Vins & Bulles",
+      "icon": "wine",
+      "items": [
+        {
+          "name": "Bouteille de Blanc",
+          "price": 20.0
+        },
+        {
+          "name": "Bouteille de Rosé",
+          "price": 20.0
+        },
+        {
+          "name": "Bouteille de Rouge",
+          "price": 20.0
+        },
+        {
+          "name": "Prosecco Bouteille",
+          "price": 25.0
+        },
+        {
+          "name": "Somersby",
+          "price": 4.0
+        },
+        {
+          "name": "Verre de Blanc",
+          "price": 4.0
+        },
+        {
+          "name": "Verre de Prosecco",
+          "price": 5.0
+        },
+        {
+          "name": "Verre de Rosé",
+          "price": 4.0
+        },
+        {
+          "name": "Verre de Rouge",
+          "price": 4.0
+        }
+      ]
+    },
+    {
+      "slug": "aperitifs",
+      "label": "Apéritifs",
+      "icon": "aperitif",
+      "items": [
+        {
+          "name": "Bacardi",
+          "price": 5.0
+        },
+        {
+          "name": "Batida",
+          "price": 5.0
+        },
+        {
+          "name": "Campari",
+          "price": 5.0
+        },
+        {
+          "name": "Get27",
+          "price": 5.0
+        },
+        {
+          "name": "J&B",
+          "price": 5.0
+        },
+        {
+          "name": "Martini",
+          "price": 5.0
+        },
+        {
+          "name": "Picon Vin Blanc",
+          "price": 5.0
+        },
+        {
+          "name": "Ricard",
+          "price": 5.0
+        },
+        {
+          "name": "Supplément soft",
+          "price": 1.0
+        },
+        {
+          "name": "Vodka redbull",
+          "price": 7.0
+        }
+      ]
+    },
+    {
+      "slug": "softs",
+      "label": "Softs",
+      "icon": "soft",
+      "items": [
+        {
+          "name": "Chose",
+          "price": 4.0
+        },
+        {
+          "name": "Coca",
+          "price": 2.5
+        },
+        {
+          "name": "Coca Zéro",
+          "price": 2.5
+        },
+        {
+          "name": "Cécémel",
+          "price": 3.0
+        },
+        {
+          "name": "Eau 1L",
+          "price": 3.0
+        },
+        {
+          "name": "Eau Plate",
+          "price": 2.2
+        },
+        {
+          "name": "Eau Pétillante",
+          "price": 2.2
+        },
+        {
+          "name": "Fanta",
+          "price": 2.5
+        },
+        {
+          "name": "Fuze Tea Pétillant",
+          "price": 2.5
+        },
+        {
+          "name": "Fuze Tea Pêche Hibiscus",
+          "price": 2.5
+        },
+        {
+          "name": "Red Bull",
+          "price": 3.0
+        },
+        {
+          "name": "Schweppes Agrumes",
+          "price": 3.0
+        },
+        {
+          "name": "Schweppes Tonic",
+          "price": 3.0
+        },
+        {
+          "name": "Sirop",
+          "price": 0.5
+        },
+        {
+          "name": "Sprite",
+          "price": 2.5
+        }
+      ]
+    },
+    {
+      "slug": "chaudes",
+      "label": "Boissons Chaudes",
+      "icon": "hot",
+      "items": [
+        {
+          "name": "Café",
+          "price": 2.5
+        },
+        {
+          "name": "Cappuccino",
+          "price": 3.0
+        },
+        {
+          "name": "Cécémel chaud",
+          "price": 3.5
+        },
+        {
+          "name": "Espresso",
+          "price": 2.5
+        },
+        {
+          "name": "Latte Macchiato",
+          "price": 3.5
+        },
+        {
+          "name": "Thé",
+          "price": 2.5
+        }
+      ]
+    },
+    {
+      "slug": "sport",
+      "label": "Boissons Sportives",
+      "icon": "sport",
+      "items": [
+        {
+          "name": "Aquarius Citron",
+          "price": 3.0
+        },
+        {
+          "name": "Aquarius Pêches",
+          "price": 3.0
+        },
+        {
+          "name": "Powerade",
+          "price": 3.0
+        },
+        {
+          "name": "Vit Hitt",
+          "price": 4.0
+        }
+      ]
+    },
+    {
+      "slug": "jus",
+      "label": "Jus de Fruits",
+      "icon": "juice",
+      "items": [
+        {
+          "name": "Ananas",
+          "price": 3.0
+        },
+        {
+          "name": "Fraises",
+          "price": 3.0
+        },
+        {
+          "name": "Melon",
+          "price": 3.0
+        },
+        {
+          "name": "Multivitamines",
+          "price": 3.0
+        },
+        {
+          "name": "Oranges",
+          "price": 3.0
+        },
+        {
+          "name": "Pamplemousse",
+          "price": 3.0
+        },
+        {
+          "name": "Pommes Cerises",
+          "price": 3.0
+        }
+      ]
+    },
+    {
+      "slug": "table",
+      "label": "À Table",
+      "icon": "food",
+      "items": [
+        {
+          "name": "Arrosticinis (10)",
+          "price": 11.0
+        },
+        {
+          "name": "Arrosticinis (5)",
+          "price": 6.0
+        },
+        {
+          "name": "Barre protéinées",
+          "price": 3.5
+        },
+        {
+          "name": "Chips",
+          "price": 2.0
+        },
+        {
+          "name": "Chocolat",
+          "price": 2.0
+        },
+        {
+          "name": "Croque Monsieur",
+          "price": 3.0
+        },
+        {
+          "name": "Frites",
+          "price": 3.0
+        },
+        {
+          "name": "Pizza",
+          "price": 7.0
+        },
+        {
+          "name": "Planche apéro",
+          "price": 15.0
+        },
+        {
+          "name": "Plat évents (IC, IE)",
+          "price": 12.0
+        },
+        {
+          "name": "Somersby",
+          "price": 4.0
+        }
+      ]
+    }
+  ]
+}
