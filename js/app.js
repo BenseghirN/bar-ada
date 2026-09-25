@@ -58,6 +58,20 @@ function buildSections(categories) {
     .join("");
 }
 
+function buildExtras(extras) {
+  const el = document.getElementById("extras");
+  if (!extras || !extras.length) {
+    el.innerHTML = "";
+    return;
+  }
+  el.innerHTML = extras
+    .map(
+      (ex) => `
+    <span class="extra-pill">+ ${ex.name} · ${fmtPrice(ex.price)}</span>`
+    )
+    .join("");
+}
+
 function wireScrollSpy() {
   const pills = Array.from(document.querySelectorAll(".navpill"));
   const sections = pills
@@ -101,6 +115,7 @@ async function init() {
     if (!categories.length) throw new Error("Carte vide");
     buildNav(categories);
     buildSections(categories);
+    buildExtras(data.extras);
     wireScrollSpy();
   } catch (err) {
     main.innerHTML = `<p class="state-msg">La carte n'a pas pu être chargée (${err.message}). Vérifiez data/menu.json.</p>`;

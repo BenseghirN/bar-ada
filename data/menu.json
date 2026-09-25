@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-25",
   "categories": [
     {
       "slug": "cocktails",
@@ -138,16 +138,8 @@
           "price": 4.5
         },
         {
-          "name": "Supplément sirop",
-          "price": 0.5
-        },
-        {
-          "name": "Tk",
+          "name": "Karmeliet triple",
           "price": 4.5
-        },
-        {
-          "name": "Trolls",
-          "price": 4.0
         },
         {
           "name": "Westmalle",
@@ -169,7 +161,7 @@
           "price": 3.0
         },
         {
-          "name": "Somersby",
+          "name": "Somersby 0",
           "price": 4.0
         },
         {
@@ -198,10 +190,6 @@
         {
           "name": "Prosecco Bouteille",
           "price": 25.0
-        },
-        {
-          "name": "Somersby",
-          "price": 4.0
         },
         {
           "name": "Verre de Blanc",
@@ -468,12 +456,14 @@
         {
           "name": "Plat évents (IC, IE)",
           "price": 12.0
-        },
-        {
-          "name": "Somersby",
-          "price": 4.0
         }
       ]
+    }
+  ],
+  "extras": [
+    {
+      "name": "Supplément sirop",
+      "price": 0.5
     }
   ]
 }
